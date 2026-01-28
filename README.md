@@ -1,4 +1,4 @@
-# 🏴‍☠️ Projeto One Piece – Landing Page Interativa
+# 🏴‍☠️ Projeto One Piece – Página interativa
 
 Projeto front-end desenvolvido durante a **Semana do 0 ao Programador**, do canal **Dev em Dobro** em 2023, com foco em **manipulação de DOM**, **interatividade com JavaScript** e **layout responsivo**.
 
